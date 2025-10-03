@@ -9,7 +9,7 @@ Gosto de trabalhar com (e estou sempre aprendendo sobre):
 
 * **Linguagens**: `Go`, `JavaScript`, `Python`, `HTML`, `CSS`
 * **Frameworks/Bibliotecas**: `Gin`, `GORM`,
-* **Bancos de Dados**: `Sqlite`, `PostgreSQL`
+* **Bancos de Dados**: `PostgreSQL`
 * **Ferramentas**: `Git`, `VS Code`,  `Postman`
 
 ---
