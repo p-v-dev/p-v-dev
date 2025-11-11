@@ -7,10 +7,10 @@ Sou um Analista e Dev Backend, apaixonado por transformar ideias em código limp
 
 Gosto de trabalhar com (e estou sempre aprendendo sobre):
 
-* **Linguagens**: `Go`, `CSS`, `HTML`
-* **Frameworks/Bibliotecas**: `Gin`, `GORM`
+* **Linguagens**: `Javascript`, 
+* **Frameworks/Bibliotecas**: `Next.js`, `Tailwind`, `Express.js`
 * **Bancos de Dados**: `PostgreSQL`
-* **Ferramentas**: `Git`, `VS Code`,  `Postman`, `Github`, `UML`
+* **Ferramentas**: `Git`, `VS Code`,  `Postman`, `Github`, `UML`, `CSS3`, `HTML5`
 
 ---
 
