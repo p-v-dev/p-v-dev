@@ -8,7 +8,7 @@ Sou um Analista e Dev Backend, apaixonado por transformar ideias em código limp
 Gosto de trabalhar com (e estou sempre aprendendo sobre):
 
 * **Linguagens**:  `Typescript`,`Go`, `Python`
-* **Frameworks/Bibliotecas**: `Next.js`, `Tailwind`, `Express.js`, `Hono`, `Gin`
+* **Frameworks/Bibliotecas**: `Gin`,`Express.js`,`Next.js`, `Tailwind`,  `Hono`
 * **Bancos de Dados**: `PostgreSQL`, `SQLite`
 * **Ferramentas**: `Git`, `Scrum`,  `Postman`, `Github`, `UML`, `CSS3`, `HTML5`
 
