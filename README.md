@@ -1,6 +1,6 @@
 ### Olá! 👋 Sou o Pedro Vitor, mas pode me chamar de PV!
 
-Sou um Analista e Dev Backend, apaixonado por transformar ideias em código limpo e funcional. Atualmente, estou focado em Backend utilizando GO.
+Sou um Analista e Dev Backend, apaixonado por transformar ideias em código limpo e funcional. Atualmente, estou focado em Backend utilizando Typescript e Go.
 ---
 
 #### 🛠️ **Minha Caixa de Ferramentas:**
@@ -8,9 +8,9 @@ Sou um Analista e Dev Backend, apaixonado por transformar ideias em código limp
 Gosto de trabalhar com (e estou sempre aprendendo sobre):
 
 * **Linguagens**:  `Typescript`,`Go`, `Python`
-* **Frameworks/Bibliotecas**: `Gin`,`Express.js`,`Next.js`, `Tailwind`,  `Hono`
+* **Frameworks/Bibliotecas**: `NestJS`,`Gin`,`Express.js`,`Next.js`, `Tailwind`,  `Hono`
 * **Bancos de Dados**: `PostgreSQL`, `SQLite`
-* **Ferramentas**: `Git`, `Scrum`,  `Postman`, `Github`, `UML`, `CSS3`, `HTML5`
+* **Ferramentas**: `Git`, `Agile`,  `Postman`, `Github`, `UML`
 
 ---
 
