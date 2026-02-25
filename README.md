@@ -1,5 +1,3 @@
-### Olá! 👋 Sou o Pedro Vitor, mas pode me chamar de PV!
-
 Sou um Analista e Dev Backend, apaixonado por transformar ideias em código limpo e funcional. Atualmente, estou focado em Backend utilizando Typescript e Go.
 ---
 
@@ -20,4 +18,3 @@ Estou sempre aberto a novas conexões, oportunidades de colaboração em projeto
 * **E-mail**: pedro.v.r.brito@gmail.com
 
 ---
-**Obrigado pela visita! Volte sempre!** 👋
