@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey</h1>
 
 ###
 
-<p align="left">My name is Pedro and I'm a Software Developer, from Brazil</p>
+<p align="left">I'm Developer from Brazil</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Go & Typescript<br>🎯 Goals: Trying to have fun programming<br></p>
+<p align="left">✨ Creating bugs since 2024<br>I'm currently learning Go & Typescript<br>Goals: Trying to have fun programming<br></p>
 
 ###
 
